@@ -196,14 +196,14 @@ textarea,
 select {
   font-family: "Source Sans Pro";
   font-weight: 300;
-  color: #000;
+  color: #000000;
   font-size: 14pt;
   line-height: 1.75em;
 }
 
 strong,
 b {
-  color: #252122;
+  color: #000000;
   font-weight: 400;
 }
 
@@ -236,7 +236,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #252122;
+  color: #000000;
   font-weight: 700;
 }
 
@@ -1543,7 +1543,7 @@ ul.none {
 
 form label {
   display: block;
-  color: #252122;
+  color: #000000;
   font-weight: 400;
   margin: 0 0 0.5em 0;
 }
