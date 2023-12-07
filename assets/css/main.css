@@ -257,6 +257,9 @@ h2 {
 h3 {
   font-size: 1.35em;
 }
+h3 .website{
+	font-color: #663399
+}
 
 a {
   color: #663399;
