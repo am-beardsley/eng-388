@@ -257,15 +257,16 @@ h2 {
 h3 {
   font-size: 1.35em;
 }
+
 .title {
-font-size: 1em;
 font-style: italic;
+font-color: #663399
+text-decoration: none;
 }
 
 a.title {
 color: #663399;
 text-decoration: none;
-font-weight: bold; 
 }
 
 a {
