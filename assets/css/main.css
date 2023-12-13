@@ -258,20 +258,16 @@ h3 {
   font-size: 1.35em;
 }
 
-.title {
+h4 {
+font-size: 1.35em;
 font-style: italic;
 font-color: #663399
 text-decoration: none;
 }
 
-a.title {
-color: #663399;
-text-decoration: none;
-}
-
 a {
   color: #663399;
-  text-decoration: underline;
+  font-weight: bold;
 }
 
 a:hover {
