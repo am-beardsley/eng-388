@@ -1744,7 +1744,7 @@ button,
   cursor: pointer;
   border: 0;
   border-radius: 5px;
-  background: #ffcc00;
+  background: #FFCC00;
   color: #000 !important;
   font-weight: 700;
   outline: 0;
@@ -1786,7 +1786,7 @@ input[type="submit"].alt:hover,
 input[type="reset"].alt:hover,
 button.alt:hover,
 .button.alt:hover {
-  background: #353132;
+  background: ##FFCC00;
 }
 
 input[type="button"].alt:active,
