@@ -1,4 +1,4 @@
-# English 388: Writing for the Web Course Materials
+# English 388: Writing for the Web – Course Materials
 All the materials from the upper-level digital writing course Writing for the Web are housed in this repository. Available content includes: 
 1. Course syllabus
 2. Course calendar
